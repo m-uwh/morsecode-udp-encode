@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	udpAddr         = "192.168.178.1:12345" // Destination IP address and port
+	udpAddr         = "192.168.178.1:1844" // Destination IP address and port
 	secretMessage   = "NOCWARE ROCKS"       // Message to be encoded in Morse code
 	morseUnitLength = 100                   // Message Payload length
 	payloadMessage  = "edocesrom"           // morsecode spelled backwards
